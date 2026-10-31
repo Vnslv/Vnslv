@@ -72,13 +72,4 @@
 
 ---
 
-### GitHub stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vnslv&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vnslv&layout=compact&hide_border=true" />
-</p>
-
----
-
 <p align="center"><i>Always building, always learning.</i></p>
