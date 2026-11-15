@@ -21,6 +21,7 @@
 
 ### Awards
 
+- **Champion**, Blockchain Campus Conference 2026
 - **Champion**, UMak CCIS Infotechnolympics Hackathon
 - **Top 10**, eGovPH Hackathon 2026
 
@@ -63,6 +64,7 @@
 
 | Project | What it is | Role |
 |---|---|---|
+| **HeronPay** | Offline-first NFC campus wallet web app for cashless UMak payments using Web NFC ID tapping, BNB Smart Chain smart contract settlement, gasless relayer transactions, and Isolation Forest anomaly detection | Project Manager |
 | **Alunsina** | Smart pet companion mobile app for pet care assistance using Haversine distance, tool calling, hybrid deterministic, and retrieval-augmented generation algorithms | Project Manager |
 | **Mayari** | GoFundMe-inspired donation platform for the Philippines | Project Manager |
 | **eHanda** | Disaster preparedness platform built for the eGovPH Hackathon 2026, where our team reached the Top 10 | Project Manager |
