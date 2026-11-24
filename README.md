@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Von</h1>
 <p align="center">
-  Frontend Developer · Project Manager · Computer Science student at the University of Makati
+  Full-Stack Developer · Project Manager · Computer Science student at the University of Makati
 </p>
 
 <p align="center">
@@ -64,6 +64,7 @@
 
 | Project | What it is | Role |
 |---|---|---|
+| **Idiya** | Idiya puts your team's work on one board, free. Plan with Kanban or a drag-to-reschedule timeline. Tasks that depend on others reschedule themselves when a blocker slips. Start from SDLC templates like Scrum, Waterfall or V-Model. Create Google Docs that keep the task's status up to date. Ask IdiyaBot, the built-in AI assistant, in plain words. Nothing changes until you approve it | Full-Stack Developer · Project Manager |
 | **HeronPay** | Offline-first NFC campus wallet web app for cashless UMak payments using Web NFC ID tapping, BNB Smart Chain smart contract settlement, gasless relayer transactions, and Isolation Forest anomaly detection | Project Manager |
 | **Alunsina** | Smart pet companion mobile app for pet care assistance using Haversine distance, tool calling, hybrid deterministic, and retrieval-augmented generation algorithms | Project Manager |
 | **Mayari** | GoFundMe-inspired donation platform for the Philippines | Project Manager |
